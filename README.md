@@ -1,5 +1,7 @@
 # Notion Guardian
 
+test run
+
 A tool that automatically backups your [Notion](notion.so) workspace and commits changes to another repository.
 
 Notion Guardian offers a quick way to setup a secure backup of your data in a private repository — allowing you to track how your notes change over time and to know that your data is safe.
